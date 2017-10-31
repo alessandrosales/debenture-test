@@ -1,0 +1,17 @@
+{
+    "name": "mob/debenture-test",
+    "require": {
+        "nesbot/carbon": "^1.22"
+    },
+    "authors": [
+        {
+            "name": "Alessandro Sales",
+            "email": "alessandro.sales@mobtelecom.com.br"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Debenture\\": "src/"
+        }
+    }
+}
